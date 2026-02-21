@@ -1,4 +1,7 @@
-Author : Shyamn kumar Chaurasiya \n
-Day : Saturday \n 
-Date : 21/02/2026 \n
-Location : Sona college Hostel \n
+Author : Shyamn kumar Chaurasiya
+
+Day : Saturday 
+
+Date : 21/02/2026 
+
+Location : Sona college Hostel 
