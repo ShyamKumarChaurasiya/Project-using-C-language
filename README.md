@@ -1,4 +1,4 @@
-Author : Shyamn kumar Chaurasiya
+Author : Shyam kumar Chaurasiya
 
 Day : Saturday 
 
